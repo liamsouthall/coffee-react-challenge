@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coffee-react-challenge/static/css/main.2edfcce9.chunk.css",
+    "main.js": "/coffee-react-challenge/static/js/main.6d7cbb6e.chunk.js",
+    "main.js.map": "/coffee-react-challenge/static/js/main.6d7cbb6e.chunk.js.map",
+    "runtime-main.js": "/coffee-react-challenge/static/js/runtime-main.66c7c556.js",
+    "runtime-main.js.map": "/coffee-react-challenge/static/js/runtime-main.66c7c556.js.map",
+    "static/js/2.fd87875a.chunk.js": "/coffee-react-challenge/static/js/2.fd87875a.chunk.js",
+    "static/js/2.fd87875a.chunk.js.map": "/coffee-react-challenge/static/js/2.fd87875a.chunk.js.map",
+    "index.html": "/coffee-react-challenge/index.html",
+    "precache-manifest.d081e50bd9afab751e1079eedaa55da1.js": "/coffee-react-challenge/precache-manifest.d081e50bd9afab751e1079eedaa55da1.js",
+    "service-worker.js": "/coffee-react-challenge/service-worker.js",
+    "static/css/main.2edfcce9.chunk.css.map": "/coffee-react-challenge/static/css/main.2edfcce9.chunk.css.map",
+    "static/js/2.fd87875a.chunk.js.LICENSE.txt": "/coffee-react-challenge/static/js/2.fd87875a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c7c556.js",
+    "static/js/2.fd87875a.chunk.js",
+    "static/css/main.2edfcce9.chunk.css",
+    "static/js/main.6d7cbb6e.chunk.js"
+  ]
+}
